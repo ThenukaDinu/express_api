@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "example api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThenukaDinu/express_api.git"
+  },
+  "author": "Thenuka Dinu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThenukaDinu/express_api/issues"
+  },
+  "homepage": "https://github.com/ThenukaDinu/express_api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
